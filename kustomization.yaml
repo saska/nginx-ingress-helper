@@ -1,0 +1,5 @@
+resources:
+    - default-server-secret.yaml
+
+patches:
+    - default-server-secret-patch.yaml
