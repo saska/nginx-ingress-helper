@@ -1,0 +1,6 @@
+custom-resource-definitions.yaml
+default-server-secret.yaml
+nginx-config.yaml
+nginx-ingress.yaml
+ns-and-sa.yaml
+rbac.yaml
