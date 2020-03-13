@@ -1,5 +1,11 @@
 resources:
+    - ns-and-sa.yaml
+    - rbac.yaml
     - default-server-secret.yaml
+    - nginx-config.yaml
+    - custom-resource-definitions.yaml
+    - nginx-ingress.yaml
 
 patches:
     - default-server-secret-patch.yaml
+    - nginx-config-patch.yaml
